@@ -1,0 +1,14 @@
+{
+	"name": "azlearnings",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "false"
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "35f0549e-db29-4cae-9f2a-dbb04b2e1a22",
+		"tenantId": "c8e87ee1-a9b8-46da-99a9-44634d942373"
+	}
+}
